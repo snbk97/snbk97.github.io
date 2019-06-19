@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sayan Bhowmik</title>
+    <link>https://snbk97.github.io/posts/</link>
+    <description>Recent content in Posts on Sayan Bhowmik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019 Sayan Bhowmik</copyright>
+    <lastBuildDate>Tue, 18 Jun 2019 23:46:31 +0530</lastBuildDate>
+    
+	<atom:link href="https://snbk97.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dgplug Homework</title>
+      <link>https://snbk97.github.io/posts/dgplug-homework/</link>
+      <pubDate>Tue, 18 Jun 2019 23:46:31 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/posts/dgplug-homework/</guid>
+      <description>I joined dgplugfoss summer training, few days back as I was quite fascinated with the concept of FOSS and Open Source in general. It is always my dream, to have my patch accepted in some FOSS project and watch it get used in daily life by others. It has been an amazing experince overall. There is a lot to learn in this world. I believe I have started taking small steps towards learning new stuff in this process.</description>
+    </item>
+    
+  </channel>
+</rss>

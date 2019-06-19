@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sayan Bhowmik</title>
+    <link>https://snbk97.github.io/tags/</link>
+    <description>Recent content in Tags on Sayan Bhowmik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019 Sayan Bhowmik</copyright>
+    <lastBuildDate>Tue, 18 Jun 2019 23:46:31 +0530</lastBuildDate>
+    
+	<atom:link href="https://snbk97.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dgplug</title>
+      <link>https://snbk97.github.io/tags/dgplug/</link>
+      <pubDate>Tue, 18 Jun 2019 23:46:31 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/tags/dgplug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hack</title>
+      <link>https://snbk97.github.io/tags/hack/</link>
+      <pubDate>Tue, 18 Jun 2019 23:46:31 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/tags/hack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
