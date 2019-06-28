@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 Sayan Bhowmik</copyright>
-    <lastBuildDate>Tue, 18 Jun 2019 23:46:31 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 23:42:20 +0530</lastBuildDate>
     
 	<atom:link href="https://snbk97.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>linux</title>
+      <link>https://snbk97.github.io/tags/linux/</link>
+      <pubDate>Fri, 28 Jun 2019 23:42:20 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ls</title>
+      <link>https://snbk97.github.io/tags/ls/</link>
+      <pubDate>Fri, 28 Jun 2019 23:42:20 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/tags/ls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manpage</title>
+      <link>https://snbk97.github.io/tags/manpage/</link>
+      <pubDate>Fri, 28 Jun 2019 23:42:20 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/tags/manpage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>dgplug</title>

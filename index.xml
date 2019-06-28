@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 Sayan Bhowmik</copyright>
-    <lastBuildDate>Tue, 18 Jun 2019 23:46:31 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 23:42:20 +0530</lastBuildDate>
     
 	<atom:link href="https://snbk97.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The `ls` Guide</title>
+      <link>https://snbk97.github.io/posts/using-ls/</link>
+      <pubDate>Fri, 28 Jun 2019 23:42:20 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/posts/using-ls/</guid>
+      <description>You must be wondering why even bother reading a post about ls command out of all the commands.
+ It&amp;rsquo;s hard to remember all the options, so here&amp;rsquo;s a cheat sheet. It&amp;rsquo;s a handy tool to search through a pile of files, so why not read more about it. Some awesome tools, I came across - shared at the end.  ls - this command is used for listing directory contents on *nix OS.</description>
+    </item>
     
     <item>
       <title>dgplug Homework</title>
