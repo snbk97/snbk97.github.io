@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ls on Sayan Bhowmik</title>
@@ -9,7 +8,7 @@
     <copyright>2019 Sayan Bhowmik</copyright>
     <lastBuildDate>Fri, 28 Jun 2019 23:42:20 +0530</lastBuildDate>
     
-	<atom:link href="https://snbk97.github.io/tags/ls/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://snbk97.github.io/tags/ls/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +17,108 @@
       <pubDate>Fri, 28 Jun 2019 23:42:20 +0530</pubDate>
       
       <guid>https://snbk97.github.io/posts/using-ls/</guid>
-      <description>You must be wondering why even bother reading a post about ls command out of all the commands.
- It&amp;rsquo;s hard to remember all the options, so here&amp;rsquo;s a cheat sheet. It&amp;rsquo;s a handy tool to search through a pile of files, so why not read more about it. Some awesome tools, I came across - shared at the end.  ls - this command is used for listing directory contents on *nix OS.</description>
+      <description>
+
+&lt;p&gt;You must be wondering why even bother reading a post about &lt;code&gt;ls&lt;/code&gt; command out of all the commands.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;It&amp;rsquo;s hard to remember all the options, so here&amp;rsquo;s a cheat sheet.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a handy tool to search through a pile of files, so why not read more about it.&lt;/li&gt;
+&lt;li&gt;Some awesome tools, I came across - &lt;a href=&#34;#tools&#34;&gt;shared at the end&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;ls&lt;/code&gt; -&lt;/strong&gt; this command is used for listing directory contents on *nix OS.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SYNTAX -&lt;/strong&gt; &lt;code&gt;ls [OPTION] [FILE]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Popular Options&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ls&lt;/code&gt; - lists contents with almost no formatting&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ls -l&lt;/code&gt; - formatted as a list; shows more info shown such as: permissions, date, time, author, owner etc.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ls -a&lt;/code&gt; - shows all files and folders available, including the hidden ones including (.) current dir as well as (..) parent dir&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ls -lh&lt;/code&gt; - size of files are now more human readable&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ls -lS&lt;/code&gt; - lists files sorted by file size in descending order&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ls -ltr&lt;/code&gt; - lists files sorted by modification time (-r for reverse order).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ls -m&lt;/code&gt; - delimits file list with &amp;lsquo;,&amp;rsquo; commas. (see &amp;ndash;FORMAT flag for more info)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ls -R&lt;/code&gt; - Recursively lists files and folders. (you can pair -l with it too.)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ls *.mp3&lt;/code&gt; - filter out any file extension similarly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Other Options&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-A&lt;/code&gt; - lists all, excluding (.) current dir as well as (..) parent dir.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-d&lt;/code&gt; - lists directories and not their contents. eg: &lt;code&gt;ls -d */&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-r&lt;/code&gt; - for showing output in reverse order&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-f&lt;/code&gt; - ls -a as unsorted and color mode disabled&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-i&lt;/code&gt; - print inode values (index numbers) of files&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-g&lt;/code&gt; - omits owner column from listing&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-o&lt;/code&gt; - omits group column from listing&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-n&lt;/code&gt; - user and group id&amp;rsquo;s displayed as numeric values.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-N&lt;/code&gt; - print file names without quotes&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-X&lt;/code&gt; - sort listing by extension in ascending order&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;color&lt;/code&gt; - add color to output. values = &amp;lsquo;auto&amp;rsquo;, &amp;lsquo;none&amp;rsquo; etc.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;file-type&lt;/code&gt; - same as &lt;code&gt;ls *.mp3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--full-time&lt;/code&gt; - shows time in full ISO formatting&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--help&lt;/code&gt; - display this help and exit&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--version&lt;/code&gt; - output version information and exit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can read more about the &lt;code&gt;ls&lt;/code&gt; command &lt;a href=&#34;http://www.man7.org/linux/man-pages/man1/ls.1.html&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Or run &lt;code&gt;man ls&lt;/code&gt; on your terminal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;mdash;&amp;ndash;&lt;/strong&gt;
+&lt;a name=&#34;tools&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;some-awesome-tools-to-consider&#34;&gt;Some awesome tools to consider:&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;lsd&lt;/strong&gt; - A color coded version of the ls command. Available as a snap package on the &lt;a href=&#34;https://snapcraft.io/lsd&#34;&gt;snapstore&lt;/a&gt;.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;cheat&lt;/strong&gt; - lists usage for popular commands in *nix systems &lt;a href=&#34;https://github.com/cheat/cheat&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cheat ls
+# Displays everything in the target directory
+ls path/to/the/target/directory
+
+# Displays everything including hidden files
+ls -a
+
+# Displays all files, along with the size (with unit suffixes) and timestamp
+ls -lh
+
+# Display files, sorted by size
+ls -S
+
+# Display directories only
+ls -d */
+
+# Display directories only, include hidden
+ls -d .*/ */
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;manly&lt;/strong&gt; - great for understanding command options without having to open manpage &lt;a href=&#34;https://github.com/carlbordum/manly/&#34;&gt; Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ manly ls -logX
+
+ls - list directory contents
+============================
+
+  -g     like -l, but do not list owner
+
+  -l     use a long listing format
+
+  -o     like -l, but do not list group information
+
+  -X     sort alphabetically by entry extension
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>
