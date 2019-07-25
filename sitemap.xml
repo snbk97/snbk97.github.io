@@ -4,20 +4,47 @@
   
   <url>
     <loc>https://snbk97.github.io/posts/</loc>
-    <lastmod>2019-06-28T23:42:20+05:30</lastmod>
+    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://snbk97.github.io/</loc>
-    <lastmod>2019-06-28T23:42:20+05:30</lastmod>
+    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://snbk97.github.io/tags/</loc>
-    <lastmod>2019-06-28T23:42:20+05:30</lastmod>
+    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snbk97.github.io/posts/tgmm-3/</loc>
+    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snbk97.github.io/tags/review/</loc>
+    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snbk97.github.io/tags/tgmm/</loc>
+    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snbk97.github.io/posts/tgmm-2/</loc>
+    <lastmod>2019-07-24T21:36:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snbk97.github.io/posts/tgmm-1/</loc>
+    <lastmod>2019-07-24T20:12:46+05:30</lastmod>
   </url>
   
   <url>
@@ -62,11 +89,6 @@
   
   <url>
     <loc>https://snbk97.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://snbk97.github.io/moods/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

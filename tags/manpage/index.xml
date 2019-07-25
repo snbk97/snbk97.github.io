@@ -56,7 +56,7 @@
 &lt;li&gt;&lt;code&gt;-f&lt;/code&gt; - ls -a as unsorted and color mode disabled&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-i&lt;/code&gt; - print inode values (index numbers) of files&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-g&lt;/code&gt; - omits owner column from listing&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-o&lt;/code&gt; - omits group column from listing&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-i&lt;/code&gt; - print inode values (index numbers) of files&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-n&lt;/code&gt; - user and group id&amp;rsquo;s displayed as numeric values.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-N&lt;/code&gt; - print file names without quotes&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-X&lt;/code&gt; - sort listing by extension in ascending order&lt;/li&gt;

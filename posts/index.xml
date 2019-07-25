@@ -6,10 +6,130 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 Sayan Bhowmik</copyright>
-    <lastBuildDate>Fri, 28 Jun 2019 23:42:20 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 01:03:48 +0530</lastBuildDate>
     
         <atom:link href="https://snbk97.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Great Mental Model - 3</title>
+      <link>https://snbk97.github.io/posts/tgmm-3/</link>
+      <pubDate>Thu, 25 Jul 2019 01:03:48 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/posts/tgmm-3/</guid>
+      <description>&lt;p&gt;There are around 9 mental model mentioned in the TGMM book. I&amp;rsquo;m going to
+describe last but not the least resonating mental model of them, which is know
+as &lt;code&gt;Occam&#39;s Razor&lt;/code&gt;. [&lt;a href=&#34;https://fs.blog/2017/05/mental-model-occams-razor/&#34;&gt;Read more&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;Occam&amp;rsquo;s Razor is a principle, which state that - &lt;code&gt;Suppose there exist two
+explanations for an occurrence. In this case the one that requires the least
+speculation is usually correct. Another way of saying it is that the more
+assumptions you have to make, the more unlikely an explanation.&lt;/code&gt; &amp;ndash; &lt;a href=&#34;https://simple.wikipedia.org/wiki/Occam%27s_razor&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In layman&amp;rsquo;s word, it simply means - If there is a simple way to prove
+a hypothesis, then there is no need to bring in superfluous/complex elements
+into the discussion, which can lead to difficulty to test and prove the
+hypothesis itself. The simplest explanations are more likely to be correct.&lt;/p&gt;
+
+&lt;p&gt;Said that, simplicity doesn&amp;rsquo;t mean brevity. Explaining brief of the problem, or
+approaching part of a solution is not what we want. Occam&amp;rsquo;s Razor principle is
+used to eliminate anything surplus, which is unnecessary in explaining or
+proving the hypothesis.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example from Wikipedia page.&lt;/br&gt;
+Two trees have fallen down during a windy night. Think about these two possible
+explanations:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The wind has blown them down.&lt;/li&gt;
+&lt;li&gt;Two meteorites have each taken one tree down and, after striking the trees, hit each other removing any trace of themselves.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a quote by Einstein to sum it up: &lt;code&gt;Everything should be made as simple as possible, but not simpler.&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Great Mental Model - 2</title>
+      <link>https://snbk97.github.io/posts/tgmm-2/</link>
+      <pubDate>Wed, 24 Jul 2019 21:36:33 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/posts/tgmm-2/</guid>
+      <description>&lt;p&gt;Continuing with the previous [&lt;a href=&#34;../tgmm-1&#34;&gt;post&lt;/a&gt;], I want to talk about the next
+mental model that is know as &lt;code&gt;Second-order thinking&lt;/code&gt;[&lt;a href=&#34;https://fs.blog/2016/04/second-order-thinking/&#34;&gt;Read
+More&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;This mental model enables us to evaluate our decision that we take to solve our
+problems for the time being and not worry about it&amp;rsquo;s consequence in the
+long run. It&amp;rsquo;s fast, easy and instant. No need to scratch you head to think
+about the future.&lt;/p&gt;
+
+&lt;p&gt;On the contrary, Second Order thinking need a little time to think and consider
+the consequence which you might face in the long term because of this one
+decision you make. Sometime it&amp;rsquo;s not enough to think to the second order, we
+can choose to think even one step further to the Third Order of thinking.
+The decisions we make must have an answer to &amp;ldquo;Why?&amp;rdquo; we are taking this decision
+in every step of the way. Is it valuable in the long run.&lt;/p&gt;
+
+&lt;p&gt;A excellent example given in the book was:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Adding more traction to car tires, makes it easier to control on the roads and
+slides less. (This is an example of first order thinking)&lt;/p&gt;
+
+&lt;p&gt;But the second order thinking comes into play if we think about the effects
+it&amp;rsquo;s going to have on the environment and the car parts.&lt;/p&gt;
+
+&lt;p&gt;Due to more traction, the engine now has to work harder, resulting in less
+ mileage of the vehicle. Also this cause more emission in the
+environment and more rubber particles left out in the ground. (Second order
+thinking)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Great Mental Model Review - 1</title>
+      <link>https://snbk97.github.io/posts/tgmm-1/</link>
+      <pubDate>Wed, 24 Jul 2019 20:12:46 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/posts/tgmm-1/</guid>
+      <description>&lt;p&gt;This is my review of the book &amp;ldquo;The Great Mental Model&amp;rdquo; by &lt;a href=&#34;https://fs.blog&#34;&gt;Shane
+Parrish&lt;/a&gt;. In
+this review, I will talk about the things that rather resonated with my
+thinking. The main focus of mental models is to look at problems in a more
+holistic way and then approach their solution. This was covered in the &lt;code&gt;Thought
+Experiment&lt;/code&gt; chapter of this book.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;center&#34;  src=&#34;https://images-eu.ssl-images-amazon.com/images/I/41phGRru5OL._SX260_.jpg&#34; alt=&#34;The Great Mental Model&#34; title=&#34;The Great Mental Model&#34;&gt;
+&lt;center&gt;Source: &lt;a href=&#34;https://www.amazon.com/Great-Mental-Models-Thinking-Concepts-ebook/dp/B07P79P8ST&#34;&gt;Amazon&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;You must be wondering what mental models actually are. Okay, so let me tell you
+what I understood from it. Mental models are a way of seeing the world from
+many different angles and comprehend how the world works.
+So when you are thinking of solutions, think in every angle possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;It is advised to learn multiple mental model and apply them in your life, so that
+you don&#39;t have to distort reality to fit your mental models.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;When we think about solving a problem, we most often think about the solution
+in the same domain in which the problem lies. This is where we must try to
+understand the gravity of the problem in multiple disciplines.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you are a researcher, you think in term of success rates of experiments and
+reports. Similarly, if you&amp;rsquo;re a business man, you think in term of profit or
+loss of your company&amp;rsquo;s revenue.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is how the process of thinking is embedded into out brain via the
+education system and work environments. This not a bad way of thinking, it does
+comes handy to prevent common mistakes. But, it does &lt;strong&gt;narrow&lt;/strong&gt; our vision towards
+the issue and how we perceive the world and problems associated in within it.&lt;/p&gt;
+
+&lt;p&gt;If you wish to know more, visit the author&amp;rsquo;s blog post.[&lt;a href=&#34;https://fs.blog/2017/06/thought-experiment-how-einstein-solved-difficult-problems/&#34;&gt;here&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The `ls` Guide</title>
@@ -56,7 +176,7 @@
 &lt;li&gt;&lt;code&gt;-f&lt;/code&gt; - ls -a as unsorted and color mode disabled&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-i&lt;/code&gt; - print inode values (index numbers) of files&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-g&lt;/code&gt; - omits owner column from listing&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-o&lt;/code&gt; - omits group column from listing&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-i&lt;/code&gt; - print inode values (index numbers) of files&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-n&lt;/code&gt; - user and group id&amp;rsquo;s displayed as numeric values.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-N&lt;/code&gt; - print file names without quotes&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-X&lt;/code&gt; - sort listing by extension in ascending order&lt;/li&gt;
