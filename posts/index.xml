@@ -6,10 +6,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 Sayan Bhowmik</copyright>
-    <lastBuildDate>Thu, 25 Jul 2019 01:03:48 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 22:25:40 +0530</lastBuildDate>
     
         <atom:link href="https://snbk97.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019 Review</title>
+      <link>https://snbk97.github.io/posts/2019-review/</link>
+      <pubDate>Tue, 31 Dec 2019 22:25:40 +0530</pubDate>
+      
+      <guid>https://snbk97.github.io/posts/2019-review/</guid>
+      <description>&lt;p&gt;&lt;code&gt;2019&lt;/code&gt; - The year of Keanu Reves memes, Tesla&#39;s cyber truck, Greta Thunberg&#39;s concern for the environment, ISRO&#39;s Chandrayaan-2 success et cetera&lt;/p&gt;
+&lt;p&gt;Well, It was a pretty good year for me as well. It was one of the year which had overwhelmed me with what it had to offer in both ways - positive and negative.&lt;/p&gt;
+&lt;p&gt;I learnt some very ancient but also few interesting tech in college like 6Bone, MobileIP, Computer graphics, Turing machines (almost flunked), last but not least, exciting tech : Java servlet 2.0 (/s)&lt;/p&gt;
+&lt;p&gt;Also I completed my 4th and 5th semesters in college, which is pretty great news.&lt;/p&gt;
+&lt;p&gt;Some how managed to get a software engineering internship and hope to  get the full-time position also. The preparation for which somewhat a mixture of hard work and LOT OF LUCK. To be honest, it was fucking annoying at best, to go through at least 3-4 interviews (till the last round), just to hear the same sh*t &amp;ldquo;Better Luck Next Time. Kek&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;JK, it was more like - Good luck for your next interviews, f*ck off now m8.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;New habit, that I&#39;m of looking into - Listening to podcasts and talk shows. People really talk about really fascinating things about life, thoughts, food, religion and most importantly TECH.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To name a few -&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI Podcast&lt;/strong&gt; - Lex Fridman&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;If then else&lt;/strong&gt; - Mayuko&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ashdin Doctor&lt;/strong&gt; - Habit coach&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Vinamre Kasanaa show&lt;/strong&gt; - Vinamre Kasana&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PG Radio&lt;/strong&gt; - Prakhar Gupta&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Coming to the end of this post, I&#39;m left with 6 more months of college, which will be spent mostly in the internship and hopefully other productive things.
+Let&#39;s see what 2020 brings us.&lt;/p&gt;
+&lt;p&gt;Happy New Year !&lt;/p&gt;
+&lt;p&gt;~fin&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Great Mental Models - 3</title>
@@ -17,35 +47,26 @@
       <pubDate>Thu, 25 Jul 2019 01:03:48 +0530</pubDate>
       
       <guid>https://snbk97.github.io/posts/tgmm-3/</guid>
-      <description>&lt;p&gt;There are around 9 mental models mentioned in the The Great Mental Models book. I&amp;rsquo;m going to
+      <description>&lt;p&gt;There are around 9 mental models mentioned in the The Great Mental Models book. I&#39;m going to
 describe last but not the least resonating mental model of them, which is know
 as &lt;code&gt;Occam&#39;s Razor&lt;/code&gt;. [&lt;a href=&#34;https://fs.blog/2017/05/mental-model-occams-razor/&#34;&gt;Read more&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Occam&amp;rsquo;s Razor is a principle, which state that - &lt;code&gt;Suppose there exist two
-explanations for an occurrence. In this case the one that requires the least
-speculation is usually correct. Another way of saying it is that the more
-assumptions you have to make, the more unlikely an explanation.&lt;/code&gt; &amp;ndash; &lt;a href=&#34;https://simple.wikipedia.org/wiki/Occam%27s_razor&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In layman&amp;rsquo;s word, it simply means - If there is a simple way to prove
+&lt;p&gt;Occam&#39;s Razor is a principle, which state that - &lt;code&gt;Suppose there exist two explanations for an occurrence. In this case the one that requires the least speculation is usually correct. Another way of saying it is that the more assumptions you have to make, the more unlikely an explanation.&lt;/code&gt; &amp;ndash; &lt;a href=&#34;https://simple.wikipedia.org/wiki/Occam%27s_razor&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In layman&#39;s word, it simply means - If there is a simple way to prove
 a hypothesis, then there is no need to bring in superfluous/complex elements
 into the discussion, which can lead to difficulty to test and prove the
 hypothesis itself. The simplest explanations are more likely to be correct.&lt;/p&gt;
-
-&lt;p&gt;Said that, simplicity doesn&amp;rsquo;t mean brevity. Explaining brief of the problem, or
-approaching part of a solution is not what we want. Occam&amp;rsquo;s Razor principle is
+&lt;p&gt;Said that, simplicity doesn&#39;t mean brevity. Explaining brief of the problem, or
+approaching part of a solution is not what we want. Occam&#39;s Razor principle is
 used to eliminate anything surplus, which is unnecessary in explaining or
 proving the hypothesis.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s an example from Wikipedia page.&lt;/br&gt;
+&lt;p&gt;Here&#39;s an example from Wikipedia page.&lt;!-- raw HTML omitted --&gt;
 Two trees have fallen down during a windy night. Think about these two possible
 explanations:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;The wind has blown them down.&lt;/li&gt;
 &lt;li&gt;Two meteorites have each taken one tree down and, after striking the trees, hit each other removing any trace of themselves.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Here&amp;rsquo;s a quote by Einstein to sum it up: &lt;code&gt;Everything should be made as simple as possible, but not simpler.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Here&#39;s a quote by Einstein to sum it up: &lt;code&gt;Everything should be made as simple as possible, but not simpler.&lt;/code&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -58,30 +79,28 @@ explanations:&lt;/p&gt;
       <description>&lt;p&gt;Continuing with the previous [&lt;a href=&#34;../tgmm-1&#34;&gt;post&lt;/a&gt;], I want to talk about the next
 mental model that is know as &lt;code&gt;Second-order thinking&lt;/code&gt;[&lt;a href=&#34;https://fs.blog/2016/04/second-order-thinking/&#34;&gt;Read
 More&lt;/a&gt;]&lt;/p&gt;
-
 &lt;p&gt;This mental model enables us to evaluate our decision that we take to solve our
-problems for the time being and not worry about it&amp;rsquo;s consequence in the
-long run. It&amp;rsquo;s fast, easy and instant. No need to scratch you head to think
+problems for the time being and not worry about it&#39;s consequence in the
+long run. It&#39;s fast, easy and instant. No need to scratch you head to think
 about the future.&lt;/p&gt;
-
 &lt;p&gt;On the contrary, Second Order thinking need a little time to think and consider
 the consequence which you might face in the long term because of this one
-decision you make. Sometime it&amp;rsquo;s not enough to think to the second order, we
+decision you make. Sometime it&#39;s not enough to think to the second order, we
 can choose to think even one step further to the Third Order of thinking.
 The decisions we make must have an answer to &amp;ldquo;Why?&amp;rdquo; we are taking this decision
 in every step of the way. Is it valuable in the long run.&lt;/p&gt;
-
 &lt;p&gt;A excellent example given in the book was:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Adding more traction to car tires, makes it easier to control on the roads and
 slides less. (This is an example of first order thinking)&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;But the second order thinking comes into play if we think about the effects
-it&amp;rsquo;s going to have on the environment and the car parts.&lt;/p&gt;
-
+it&#39;s going to have on the environment and the car parts.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;Due to more traction, the engine now has to work harder, resulting in less
- mileage of the vehicle. Also this cause more emission in the
+mileage of the vehicle. Also this cause more emission in the
 environment and more rubber particles left out in the ground. (Second order
 thinking)&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -98,36 +117,26 @@ thinking)&lt;/p&gt;
 Parrish&lt;/a&gt;. In
 this review, I will talk about the things that rather resonated with my
 thinking. The main focus of mental models is to look at problems in a more
-holistic way and then approach their solution. This was covered in the &lt;code&gt;Thought
-Experiment&lt;/code&gt; chapter of this book.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;center&#34;  src=&#34;https://images-eu.ssl-images-amazon.com/images/I/41phGRru5OL._SX260_.jpg&#34; alt=&#34;The Great Mental Model&#34; title=&#34;The Great Mental Model&#34;&gt;
-&lt;center&gt;Source: &lt;a href=&#34;https://www.amazon.com/Great-Mental-Models-Thinking-Concepts-ebook/dp/B07P79P8ST&#34;&gt;Amazon&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
-
+holistic way and then approach their solution. This was covered in the &lt;code&gt;Thought Experiment&lt;/code&gt; chapter of this book.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;You must be wondering what mental models actually are. Okay, so let me tell you
 what I understood from it. Mental models are a way of seeing the world from
 many different angles and comprehend how the world works.
 So when you are thinking of solutions, think in every angle possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;It is advised to learn multiple mental model and apply them in your life, so that
-you don&#39;t have to distort reality to fit your mental models.&lt;/code&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;code&gt;It is advised to learn multiple mental model and apply them in your life, so that you don&#39;t have to distort reality to fit your mental models.&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;When we think about solving a problem, we most often think about the solution
 in the same domain in which the problem lies. This is where we must try to
 understand the gravity of the problem in multiple disciplines.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;If you are a researcher, you think in term of success rates of experiments and
-reports. Similarly, if you&amp;rsquo;re a business man, you think in term of profit or
-loss of your company&amp;rsquo;s revenue.&lt;/p&gt;
+reports. Similarly, if you&#39;re a business man, you think in term of profit or
+loss of your company&#39;s revenue.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;This is how the process of thinking is embedded into out brain via the
 education system and work environments. This not a bad way of thinking, it does
 comes handy to prevent common mistakes. But, it does &lt;strong&gt;narrow&lt;/strong&gt; our vision towards
 the issue and how we perceive the world and problems associated in within it.&lt;/p&gt;
-
-&lt;p&gt;If you wish to know more, visit the author&amp;rsquo;s blog post.[&lt;a href=&#34;https://fs.blog/2017/06/thought-experiment-how-einstein-solved-difficult-problems/&#34;&gt;here&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;If you wish to know more, visit the author&#39;s blog post.[&lt;a href=&#34;https://fs.blog/2017/06/thought-experiment-how-einstein-solved-difficult-problems/&#34;&gt;here&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
@@ -137,24 +146,16 @@ the issue and how we perceive the world and problems associated in within it.&lt
       <pubDate>Fri, 28 Jun 2019 23:42:20 +0530</pubDate>
       
       <guid>https://snbk97.github.io/posts/using-ls/</guid>
-      <description>
-
-&lt;p&gt;You must be wondering why even bother reading a post about &lt;code&gt;ls&lt;/code&gt; command out of all the commands.&lt;/p&gt;
-
+      <description>&lt;p&gt;You must be wondering why even bother reading a post about &lt;code&gt;ls&lt;/code&gt; command out of all the commands.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;It&amp;rsquo;s hard to remember all the options, so here&amp;rsquo;s a cheat sheet.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s a handy tool to search through a pile of files, so why not read more about it.&lt;/li&gt;
-&lt;li&gt;Some awesome tools, I came across - &lt;a href=&#34;#tools&#34;&gt;shared at the end&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;It&#39;s hard to remember all the options, so here&#39;s a cheat sheet.&lt;/li&gt;
+&lt;li&gt;It&#39;s a handy tool to search through a pile of files, so why not read more about it.&lt;/li&gt;
+&lt;li&gt;Some awesome tools, I came across - &lt;!-- raw HTML omitted --&gt;shared at the end&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;&lt;code&gt;ls&lt;/code&gt; -&lt;/strong&gt; this command is used for listing directory contents on *nix OS.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;SYNTAX -&lt;/strong&gt; &lt;code&gt;ls [OPTION] [FILE]&lt;/code&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Popular Options&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;ls&lt;/code&gt; - lists contents with almost no formatting&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;ls -l&lt;/code&gt; - formatted as a list; shows more info shown such as: permissions, date, time, author, owner etc.&lt;/li&gt;
@@ -166,9 +167,7 @@ the issue and how we perceive the world and problems associated in within it.&lt
 &lt;li&gt;&lt;code&gt;ls -R&lt;/code&gt; - Recursively lists files and folders. (you can pair -l with it too.)&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;ls *.mp3&lt;/code&gt; - filter out any file extension similarly&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;Other Options&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;-A&lt;/code&gt; - lists all, excluding (.) current dir as well as (..) parent dir.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-d&lt;/code&gt; - lists directories and not their contents. eg: &lt;code&gt;ls -d */&lt;/code&gt;&lt;/li&gt;
@@ -177,7 +176,7 @@ the issue and how we perceive the world and problems associated in within it.&lt
 &lt;li&gt;&lt;code&gt;-i&lt;/code&gt; - print inode values (index numbers) of files&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-g&lt;/code&gt; - omits owner column from listing&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-i&lt;/code&gt; - print inode values (index numbers) of files&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-n&lt;/code&gt; - user and group id&amp;rsquo;s displayed as numeric values.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-n&lt;/code&gt; - user and group id&#39;s displayed as numeric values.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-N&lt;/code&gt; - print file names without quotes&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-X&lt;/code&gt; - sort listing by extension in ascending order&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;color&lt;/code&gt; - add color to output. values = &amp;lsquo;auto&amp;rsquo;, &amp;lsquo;none&amp;rsquo; etc.&lt;/li&gt;
@@ -186,21 +185,15 @@ the issue and how we perceive the world and problems associated in within it.&lt
 &lt;li&gt;&lt;code&gt;--help&lt;/code&gt; - display this help and exit&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--version&lt;/code&gt; - output version information and exit&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;You can read more about the &lt;code&gt;ls&lt;/code&gt; command &lt;a href=&#34;http://www.man7.org/linux/man-pages/man1/ls.1.html&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;You can read more about the &lt;code&gt;ls&lt;/code&gt; command &lt;!-- raw HTML omitted --&gt;here.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Or run &lt;code&gt;man ls&lt;/code&gt; on your terminal.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;&amp;mdash;&amp;ndash;&lt;/strong&gt;
-&lt;a name=&#34;tools&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h2 id=&#34;some-awesome-tools-to-consider&#34;&gt;Some awesome tools to consider:&lt;/h2&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;lsd&lt;/strong&gt; - A color coded version of the ls command. Available as a snap package on the &lt;a href=&#34;https://snapcraft.io/lsd&#34;&gt;snapstore&lt;/a&gt;.&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;cheat&lt;/strong&gt; - lists usage for popular commands in *nix systems &lt;a href=&#34;https://github.com/cheat/cheat&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-
+&lt;li&gt;&lt;strong&gt;lsd&lt;/strong&gt; - A color coded version of the ls command. Available as a snap package on the &lt;!-- raw HTML omitted --&gt;snapstore&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;cheat&lt;/strong&gt; - lists usage for popular commands in *nix systems &lt;!-- raw HTML omitted --&gt;Github&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;pre&gt;&lt;code&gt;cheat ls
 # Displays everything in the target directory
 ls path/to/the/target/directory
@@ -220,25 +213,22 @@ ls -d */
 # Display directories only, include hidden
 ls -d .*/ */
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;manly&lt;/strong&gt; - great for understanding command options without having to open manpage &lt;a href=&#34;https://github.com/carlbordum/manly/&#34;&gt; Github&lt;/a&gt;.&lt;/p&gt;
-
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;manly&lt;/strong&gt; - great for understanding command options without having to open manpage &lt;!-- raw HTML omitted --&gt; Github&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;pre&gt;&lt;code&gt;$ manly ls -logX
 
 ls - list directory contents
 ============================
 
-  -g     like -l, but do not list owner
+      -g     like -l, but do not list owner
 
-  -l     use a long listing format
+      -l     use a long listing format
 
-  -o     like -l, but do not list group information
+      -o     like -l, but do not list group information
 
-  -X     sort alphabetically by entry extension
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      -X     sort alphabetically by entry extension
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -249,34 +239,19 @@ ls - list directory contents
       <guid>https://snbk97.github.io/posts/dgplug-homework/</guid>
       <description>&lt;p&gt;I joined dgplug foss summer training, few days back as I was quite fascinated with the concept of FOSS and Open Source in general. It is always my dream, to have my patch accepted in some FOSS project and watch it get used in daily life by others.
 It has been an amazing experience overall. There is a lot to learn in this world. I believe I have started taking small steps towards learning new stuff in  this process.&lt;/p&gt;
-
 &lt;p&gt;Anyways, being in this training, there is a lot of material to read and comprehend. As the training progresses over IRC, it becomes cumbersome to keep tracks of the homework and links that we get to read.&lt;/p&gt;
-
-&lt;p&gt;So here&amp;rsquo;s a little bookmarklet I made to help to figure out the links and messages containing the word homework.
-&lt;blockquote&gt;
-&lt;b&gt;
-It is still recommended to read the chat atleast once after IRC sessions; the bookmarklet might miss out on few of the homework, which are not links.&lt;/b&gt;
-&lt;/blockquote&gt;
-🦄 Bookmarklet : &lt;a  id=&#34;bookmarklet&#34; style=&#34;border-style:dotted ;padding:0.5em; border-size:1px&#34;&gt;&lt;b&gt;dgplugHW&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;So here&#39;s a little bookmarklet I made to help to figure out the links and messages containing the word homework.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;Drag and place it on your bookmark bar.&lt;/li&gt;
 &lt;li&gt;Open IRC chat logs and click the bookmarklet.&lt;/li&gt;
 &lt;li&gt;Your homework for the day, await at the end.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/snbk97/a2929ad03514e7955815b4c33a156e06.js&#34;&gt;&lt;/script&gt;
 
-&lt;script type=&#34;application/javascript&#34; src=&#34;//gist.github.com/snbk97/a2929ad03514e7955815b4c33a156e06.js&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote&gt;
-If you ever modify the script and want to use as bookmarklet, use this &lt;a href=&#34;https://www.shareprogress.org/bookmarklet/&#34;&gt;Bookmarklet Generator&lt;/a&gt; to convert your js script.
-&lt;/blockquote&gt;
-
-&lt;script type=&#34;text/javascript&#34;&gt;
-    window.onload = ()=&gt;{
-        var bk = document.getElementById(&#34;bookmarklet&#34;)
-        bk.href = &#34;javascript:(function()%7Bif(%20!(%2F(%3F%3A(irclogs%7Ctxt))%24%2Fg.test(window.location.href))%20)%7B%0A%20%20%20%20%20alert(%27Only%20works%20on%20DGPLUG%20irclogs%20pages%27)%7D%20%0Aelse%20if(!document.getElementById(%22hw-true%22))%7B%0A%20%20%20%20var%20sp%20%3D%20document.body.innerHTML.split(%27%5Cn%27)%3B%0A%20%20%20%20var%20ops%20%3D%20%5B%27kushal%27%2C%20%27mbuf%27%2C%27bhavin192%27%2C%20%27chandankumar%27%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%27jasonbraganza%27%2C%27maxking%27%2C%27praveenkumar%27%2C%27rtnpro%27%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%27saptaks%27%2C%20%27schubisu%27%2C%20%27trishnag%27%5D%3B%0A%20%20%20%20var%20words%20%3D%20%5B%27http%27%2C%20%27homework%27%2C%20%27home%20work%27%2C%20%27task%27%5D%3B%0A%20%20%20%20var%20hw%20%3D%20%27%27%3B%20%0A%20%20%20%20function%20checker(val)%20%7B%0A%20%20%20%20%20%20%20%20ops.forEach((op)%20%3D%3E%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20if%20(val.indexOf(op)%20%3E%20-1)%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20words.forEach((word)%20%3D%3E%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20(val.indexOf(word)%20%3E%20-1)%20%7Bhw%2B%3Dval%3B%20hw%2B%3D%27%5Cn%27%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D)%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D)%3B%0A%20%20%20%20%7D%0A%20%20%20%20sp.filter(checker)%0A%20%20%20%20var%20p%20%3D%20document.createElement(%27p%27)%3B%0A%20%20%20%20p.setAttribute(%22id%22%2C%22hw-true%22)%0A%20%20%20%20p.innerHTML%20%3D%20%27%3Cbr%3E%3Ch3%3EHomework%3C%2Fh3%3E%3Cpre%3E%27%20%2B%20hw%20%2B%20%27%3C%2Fpre%3E%27%3B%0A%20%20%20%20document.body.appendChild(p)%3B%0A%7D%7D)()&#34;
-    }
-&lt;/script&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

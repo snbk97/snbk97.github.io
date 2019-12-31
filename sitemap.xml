@@ -1,40 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://snbk97.github.io/tags/2019/</loc>
+    <lastmod>2019-12-31T22:25:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snbk97.github.io/posts/2019-review/</loc>
+    <lastmod>2019-12-31T22:25:40+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://snbk97.github.io/posts/</loc>
-    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-12-31T22:25:40+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://snbk97.github.io/</loc>
-    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-12-31T22:25:40+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://snbk97.github.io/tags/</loc>
-    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-12-31T22:25:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://snbk97.github.io/posts/tgmm-3/</loc>
-    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
+    <loc>https://snbk97.github.io/tags/year-review/</loc>
+    <lastmod>2019-12-31T22:25:40+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://snbk97.github.io/tags/review/</loc>
     <lastmod>2019-07-25T01:03:48+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://snbk97.github.io/tags/tgmm/</loc>
     <lastmod>2019-07-25T01:03:48+05:30</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snbk97.github.io/posts/tgmm-3/</loc>
+    <lastmod>2019-07-25T01:03:48+05:30</lastmod>
   </url>
   
   <url>
@@ -48,32 +58,28 @@
   </url>
   
   <url>
-    <loc>https://snbk97.github.io/posts/using-ls/</loc>
-    <lastmod>2019-06-28T23:42:20+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://snbk97.github.io/tags/linux/</loc>
     <lastmod>2019-06-28T23:42:20+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://snbk97.github.io/tags/ls/</loc>
     <lastmod>2019-06-28T23:42:20+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://snbk97.github.io/tags/manpage/</loc>
     <lastmod>2019-06-28T23:42:20+05:30</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snbk97.github.io/posts/using-ls/</loc>
+    <lastmod>2019-06-28T23:42:20+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://snbk97.github.io/tags/dgplug/</loc>
     <lastmod>2019-06-18T23:46:31+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -84,7 +90,6 @@
   <url>
     <loc>https://snbk97.github.io/tags/hack/</loc>
     <lastmod>2019-06-18T23:46:31+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

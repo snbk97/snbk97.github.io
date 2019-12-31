@@ -17,24 +17,16 @@
       <pubDate>Fri, 28 Jun 2019 23:42:20 +0530</pubDate>
       
       <guid>https://snbk97.github.io/posts/using-ls/</guid>
-      <description>
-
-&lt;p&gt;You must be wondering why even bother reading a post about &lt;code&gt;ls&lt;/code&gt; command out of all the commands.&lt;/p&gt;
-
+      <description>&lt;p&gt;You must be wondering why even bother reading a post about &lt;code&gt;ls&lt;/code&gt; command out of all the commands.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;It&amp;rsquo;s hard to remember all the options, so here&amp;rsquo;s a cheat sheet.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s a handy tool to search through a pile of files, so why not read more about it.&lt;/li&gt;
-&lt;li&gt;Some awesome tools, I came across - &lt;a href=&#34;#tools&#34;&gt;shared at the end&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;It&#39;s hard to remember all the options, so here&#39;s a cheat sheet.&lt;/li&gt;
+&lt;li&gt;It&#39;s a handy tool to search through a pile of files, so why not read more about it.&lt;/li&gt;
+&lt;li&gt;Some awesome tools, I came across - &lt;!-- raw HTML omitted --&gt;shared at the end&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;&lt;code&gt;ls&lt;/code&gt; -&lt;/strong&gt; this command is used for listing directory contents on *nix OS.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;SYNTAX -&lt;/strong&gt; &lt;code&gt;ls [OPTION] [FILE]&lt;/code&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Popular Options&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;ls&lt;/code&gt; - lists contents with almost no formatting&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;ls -l&lt;/code&gt; - formatted as a list; shows more info shown such as: permissions, date, time, author, owner etc.&lt;/li&gt;
@@ -46,9 +38,7 @@
 &lt;li&gt;&lt;code&gt;ls -R&lt;/code&gt; - Recursively lists files and folders. (you can pair -l with it too.)&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;ls *.mp3&lt;/code&gt; - filter out any file extension similarly&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;Other Options&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;-A&lt;/code&gt; - lists all, excluding (.) current dir as well as (..) parent dir.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-d&lt;/code&gt; - lists directories and not their contents. eg: &lt;code&gt;ls -d */&lt;/code&gt;&lt;/li&gt;
@@ -57,7 +47,7 @@
 &lt;li&gt;&lt;code&gt;-i&lt;/code&gt; - print inode values (index numbers) of files&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-g&lt;/code&gt; - omits owner column from listing&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-i&lt;/code&gt; - print inode values (index numbers) of files&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-n&lt;/code&gt; - user and group id&amp;rsquo;s displayed as numeric values.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-n&lt;/code&gt; - user and group id&#39;s displayed as numeric values.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-N&lt;/code&gt; - print file names without quotes&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;-X&lt;/code&gt; - sort listing by extension in ascending order&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;color&lt;/code&gt; - add color to output. values = &amp;lsquo;auto&amp;rsquo;, &amp;lsquo;none&amp;rsquo; etc.&lt;/li&gt;
@@ -66,21 +56,15 @@
 &lt;li&gt;&lt;code&gt;--help&lt;/code&gt; - display this help and exit&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--version&lt;/code&gt; - output version information and exit&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;You can read more about the &lt;code&gt;ls&lt;/code&gt; command &lt;a href=&#34;http://www.man7.org/linux/man-pages/man1/ls.1.html&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;You can read more about the &lt;code&gt;ls&lt;/code&gt; command &lt;!-- raw HTML omitted --&gt;here.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Or run &lt;code&gt;man ls&lt;/code&gt; on your terminal.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;&amp;mdash;&amp;ndash;&lt;/strong&gt;
-&lt;a name=&#34;tools&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h2 id=&#34;some-awesome-tools-to-consider&#34;&gt;Some awesome tools to consider:&lt;/h2&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;lsd&lt;/strong&gt; - A color coded version of the ls command. Available as a snap package on the &lt;a href=&#34;https://snapcraft.io/lsd&#34;&gt;snapstore&lt;/a&gt;.&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;cheat&lt;/strong&gt; - lists usage for popular commands in *nix systems &lt;a href=&#34;https://github.com/cheat/cheat&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-
+&lt;li&gt;&lt;strong&gt;lsd&lt;/strong&gt; - A color coded version of the ls command. Available as a snap package on the &lt;!-- raw HTML omitted --&gt;snapstore&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;cheat&lt;/strong&gt; - lists usage for popular commands in *nix systems &lt;!-- raw HTML omitted --&gt;Github&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;pre&gt;&lt;code&gt;cheat ls
 # Displays everything in the target directory
 ls path/to/the/target/directory
@@ -100,25 +84,22 @@ ls -d */
 # Display directories only, include hidden
 ls -d .*/ */
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;manly&lt;/strong&gt; - great for understanding command options without having to open manpage &lt;a href=&#34;https://github.com/carlbordum/manly/&#34;&gt; Github&lt;/a&gt;.&lt;/p&gt;
-
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;manly&lt;/strong&gt; - great for understanding command options without having to open manpage &lt;!-- raw HTML omitted --&gt; Github&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;pre&gt;&lt;code&gt;$ manly ls -logX
 
 ls - list directory contents
 ============================
 
-  -g     like -l, but do not list owner
+      -g     like -l, but do not list owner
 
-  -l     use a long listing format
+      -l     use a long listing format
 
-  -o     like -l, but do not list group information
+      -o     like -l, but do not list group information
 
-  -X     sort alphabetically by entry extension
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      -X     sort alphabetically by entry extension
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>

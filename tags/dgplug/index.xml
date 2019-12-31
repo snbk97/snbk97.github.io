@@ -19,34 +19,19 @@
       <guid>https://snbk97.github.io/posts/dgplug-homework/</guid>
       <description>&lt;p&gt;I joined dgplug foss summer training, few days back as I was quite fascinated with the concept of FOSS and Open Source in general. It is always my dream, to have my patch accepted in some FOSS project and watch it get used in daily life by others.
 It has been an amazing experience overall. There is a lot to learn in this world. I believe I have started taking small steps towards learning new stuff in  this process.&lt;/p&gt;
-
 &lt;p&gt;Anyways, being in this training, there is a lot of material to read and comprehend. As the training progresses over IRC, it becomes cumbersome to keep tracks of the homework and links that we get to read.&lt;/p&gt;
-
-&lt;p&gt;So here&amp;rsquo;s a little bookmarklet I made to help to figure out the links and messages containing the word homework.
-&lt;blockquote&gt;
-&lt;b&gt;
-It is still recommended to read the chat atleast once after IRC sessions; the bookmarklet might miss out on few of the homework, which are not links.&lt;/b&gt;
-&lt;/blockquote&gt;
-🦄 Bookmarklet : &lt;a  id=&#34;bookmarklet&#34; style=&#34;border-style:dotted ;padding:0.5em; border-size:1px&#34;&gt;&lt;b&gt;dgplugHW&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;So here&#39;s a little bookmarklet I made to help to figure out the links and messages containing the word homework.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;Drag and place it on your bookmark bar.&lt;/li&gt;
 &lt;li&gt;Open IRC chat logs and click the bookmarklet.&lt;/li&gt;
 &lt;li&gt;Your homework for the day, await at the end.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/snbk97/a2929ad03514e7955815b4c33a156e06.js&#34;&gt;&lt;/script&gt;
 
-&lt;script type=&#34;application/javascript&#34; src=&#34;//gist.github.com/snbk97/a2929ad03514e7955815b4c33a156e06.js&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote&gt;
-If you ever modify the script and want to use as bookmarklet, use this &lt;a href=&#34;https://www.shareprogress.org/bookmarklet/&#34;&gt;Bookmarklet Generator&lt;/a&gt; to convert your js script.
-&lt;/blockquote&gt;
-
-&lt;script type=&#34;text/javascript&#34;&gt;
-    window.onload = ()=&gt;{
-        var bk = document.getElementById(&#34;bookmarklet&#34;)
-        bk.href = &#34;javascript:(function()%7Bif(%20!(%2F(%3F%3A(irclogs%7Ctxt))%24%2Fg.test(window.location.href))%20)%7B%0A%20%20%20%20%20alert(%27Only%20works%20on%20DGPLUG%20irclogs%20pages%27)%7D%20%0Aelse%20if(!document.getElementById(%22hw-true%22))%7B%0A%20%20%20%20var%20sp%20%3D%20document.body.innerHTML.split(%27%5Cn%27)%3B%0A%20%20%20%20var%20ops%20%3D%20%5B%27kushal%27%2C%20%27mbuf%27%2C%27bhavin192%27%2C%20%27chandankumar%27%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%27jasonbraganza%27%2C%27maxking%27%2C%27praveenkumar%27%2C%27rtnpro%27%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%27saptaks%27%2C%20%27schubisu%27%2C%20%27trishnag%27%5D%3B%0A%20%20%20%20var%20words%20%3D%20%5B%27http%27%2C%20%27homework%27%2C%20%27home%20work%27%2C%20%27task%27%5D%3B%0A%20%20%20%20var%20hw%20%3D%20%27%27%3B%20%0A%20%20%20%20function%20checker(val)%20%7B%0A%20%20%20%20%20%20%20%20ops.forEach((op)%20%3D%3E%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20if%20(val.indexOf(op)%20%3E%20-1)%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20words.forEach((word)%20%3D%3E%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20(val.indexOf(word)%20%3E%20-1)%20%7Bhw%2B%3Dval%3B%20hw%2B%3D%27%5Cn%27%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D)%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D)%3B%0A%20%20%20%20%7D%0A%20%20%20%20sp.filter(checker)%0A%20%20%20%20var%20p%20%3D%20document.createElement(%27p%27)%3B%0A%20%20%20%20p.setAttribute(%22id%22%2C%22hw-true%22)%0A%20%20%20%20p.innerHTML%20%3D%20%27%3Cbr%3E%3Ch3%3EHomework%3C%2Fh3%3E%3Cpre%3E%27%20%2B%20hw%20%2B%20%27%3C%2Fpre%3E%27%3B%0A%20%20%20%20document.body.appendChild(p)%3B%0A%7D%7D)()&#34;
-    }
-&lt;/script&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
